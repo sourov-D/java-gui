@@ -1,2 +1,2 @@
 # java-gui
-A java program with GUI.
+A java program with GUI with JAVAFX.
